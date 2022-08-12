@@ -3,8 +3,8 @@
   id = "nix";
   name = "Nix";
   license = lib.licenses.mit;
-  demoPage = https://styx-static.github.io/styx-theme-nix;
-  homepage = https://github.com/styx-static/styx-theme-nix;
+  demoPage = https://divnix.github.io/styx-theme-nix;
+  homepage = https://github.com/divnix/styx-theme-nix;
   tags = [ "minimal" ];
   screenshot = ./screen.png;
   description = ''
